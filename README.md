@@ -1,7 +1,4 @@
 
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
         <title>MEIO AMBIENTE E SUSTENTABILIDADE</title>
         <body>
             <h1>MEIO AMBIENTE</h1>
